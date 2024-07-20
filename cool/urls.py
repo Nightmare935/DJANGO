@@ -5,4 +5,5 @@ urlpatterns = [
     path('',views.home),
     path('first/',views.first),
     path('second/',views.second),
+     path('index/',views.index),
 ]
